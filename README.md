@@ -1,5 +1,7 @@
 # Tutorijal:
 
+Node Modules koji nedostaju u projektu: https://drive.google.com/file/d/1N3FwVvdfOKjXnToF-4Dgfgdi0l_-KqHZ/view?usp=drive_link
+
 Snimak: https://www.youtube.com/watch?v=38xaSWEEwhw
 
 Angular CLI: https://v17.angular.io/cli
