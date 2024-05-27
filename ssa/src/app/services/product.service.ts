@@ -1,15 +1,11 @@
 import { Injectable } from '@angular/core';
-
-// dodaje se:
 import { Product } from '../model/product.model';
-
 
 @Injectable({
   providedIn: 'root'
 })
 export class ProductService {
 
-  // dodaje se:
   readonly url = 'http://localhost:3000/products'
   constructor() { }
 
