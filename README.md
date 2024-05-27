@@ -23,3 +23,12 @@ Bootstrap: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 7. Nakon postavljanja rute, komandom **ng serve --open** pokrecemo server i pristupamo putem url-a: http://localhost:4200/, http://localhost:4200/products da vidimo proizvode
 8. U okviru novog command prompta potrebno je pokrenuti sledecu komandu za kreiranje komponenti detalja: **ng g c components/detalji**
 9. Ne gasiti command prompt dok je aktivan server!
+
+Klase koje se menjaju:
+
+1. Index.html -> ubacuje se link i skripta ka bootstrapu
+2. app.routes.ts -> ruta ka detaljima i proizvodima
+3. db.json
+4. Model klasa
+5. services - product.service.ts -> getAll, getById i URL
+6. components - detalji i product -> detalji.component.ts, detalji.component.html i product.component.ts, product.component.html 
